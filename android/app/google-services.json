@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "335785605903",
+    "project_id": "learning-cdss",
+    "storage_bucket": "learning-cdss.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335785605903:android:079e103415138d095cdc7a",
+        "android_client_info": {
+          "package_name": "com.example.learning_cdss"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "335785605903-do54qpiikhl6fv7g04ad9gfmj8qhlt5e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYj2KVFzq7ejfUKa3lsg3Tt_2mBNTMMQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "335785605903-do54qpiikhl6fv7g04ad9gfmj8qhlt5e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
